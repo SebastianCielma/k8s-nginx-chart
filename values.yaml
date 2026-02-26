@@ -12,7 +12,7 @@ service:
 
 auth:
   username: admin
-  password: $apr1$WPx9jdHG$dO6HzNkS568kPi8uAFR8/0
+  password: "$apr1$WPx9jdHG$dO6HzNkS568kPi8uAFR8/0"
 
 persistence:
   size: 1Gi
